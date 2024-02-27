@@ -33,6 +33,6 @@ Check out the YOLOv8 Object Tracking in action! [Demo Video](https://github.com/
 For Test Video [Click Here](https://pexels.com/search/videos/animal%20and%20people/)
 
 ## License:
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/xkyleann/YOLOv8_Object_Tracking/blob/main/LICENSE.md) file for details.
 
 
