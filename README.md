@@ -28,9 +28,11 @@ YOLOv8 Object Tracking is a Python-based project that utilizes the YOLO (You Onl
 * Ultralytics
 
 ## Demo
-Check out the mesmerizing ASCII Code Video in action! [Demo Video]()
+Check out the YOLOv8 Object Tracking in action! [Demo Video](https://github.com/xkyleann/YOLOv8_Object_Tracking/assets/128597547/6c8ba926-3348-4847-83da-361ecb55e0f7)
+
 For Test Video [Click Here](https://pexels.com/search/videos/animal%20and%20people/)
 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE]() file for details.
+
 
