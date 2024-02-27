@@ -1,4 +1,4 @@
-# YOLO8 Object Tracking 
+# YOLOv8 Object Tracking 
 YOLOv8 Object Tracking is a Python-based project that utilizes the YOLO (You Only Look Once) deep learning architecture for real-time object detection and tracking in video streams. This project implements YOLOv8, an improved version of the YOLO model, which achieves high accuracy and fast inference speeds.
 
 ## Key Features
